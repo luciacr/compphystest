@@ -1,3 +1,4 @@
 # compphystest
 test av github
-ny test
+ny test som eksempel
+flere stuff
